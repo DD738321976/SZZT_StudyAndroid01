@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/compiler" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/qmui" />
+            <option value="$PROJECT_DIR$/qmuidemo" />
+            <option value="$PROJECT_DIR$/qmuilint" />
+            <option value="$PROJECT_DIR$/qmuilintrule" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
